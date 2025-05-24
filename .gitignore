@@ -1,0 +1,40 @@
+# macOS system files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+*.egg-info/
+.env
+.venv
+env/
+venv/
+*.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OneDrive sync files
+~$*
+
+# General backup files
+*.bak
+*.swp
+*.swo
+
+# Data files (optional, uncomment if you want to ignore data)
+# *.csv
+# *.xlsx
+# *.xls
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Icon?
